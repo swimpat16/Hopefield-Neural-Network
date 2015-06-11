@@ -1,0 +1,6 @@
+Description:
+	This is a basic Hopfield artificial neural network simulation that was designed and written by Patrick Elam and Alex Chaloux to solve a few basic mathematical problems. The simulator was written in C++.
+Files:
+	lab3.cpp: The main simulation.
+Usage:
+	lab3 P_SIZE V_SIZE NUM_RUNS
